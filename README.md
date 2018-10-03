@@ -1,4 +1,4 @@
-# university-notes
+# University Notes
 Some notes I made during degree at Multimedia University.
 
 # Year 1
